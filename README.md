@@ -4,7 +4,7 @@
 
 Here's a straightforward top-down game that demonstrates the capabilities of the Unity Engine. 
 
-You can access [the presentation slides here](https://docs.google.com/presentation/d/1xDIRM8GrDeyu4ah6kDaZ3CZgAbQGgaFqTbYaBX5rilg/edit?usp=sharing).
+You can access [the presentation slides here](https://docs.google.com/presentation/d/188ft-HibqBRxSYiJGdRto0xw3Bm-xDnbgAw-6wseuJ4).
 
 ![Logo](https://raw.githubusercontent.com/dmitry-ivashenko/stemist-hacks-top-down-prototype/main/preview.gif)
 
